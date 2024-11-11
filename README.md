@@ -20,10 +20,15 @@ If you run out of lives, you lose.
 # Code Structure
 The code is structured into several functions:
 start_application(): Initializes the game and handles the main game loop.
+
 choosing_word(): Prompts the player to choose a random word from a list.
+
 validate_hidden_word(): Implements the core game logic, including:
 Tracking lives and mistakes.
+
 Processing player input (letters or full word guesses).
+
 Revealing letters in the hidden word.
+
 Determining win or loss conditions.
 
