@@ -19,6 +19,7 @@ If you run out of lives, you lose.
 
 # Code Structure
 The code is structured into several functions:
+
 start_application(): Initializes the game and handles the main game loop.
 
 choosing_word(): Prompts the player to choose a random word from a list.
